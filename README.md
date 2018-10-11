@@ -27,4 +27,7 @@ Use CSS in the `style.css` file in the `css` folder to change different aspects 
 
 You can also try modifying these styles on-the-fly by modifying them with the [developer tools](https://www.youtube.com/watch?v=q3mWDijP_8w) of your [browser](http://www.sitepoint.com/edit-source-files-in-chrome/).
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-riyadh-blog/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-riyadh-blog/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Riyadh Blog</p>
